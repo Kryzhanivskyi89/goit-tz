@@ -1,0 +1,20 @@
+.container {
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: #0099ff;
+    padding: 10px 40px;
+    box-shadow: 0px 5px 20px 2px #0099ff;
+}
+
+.link {
+    font-size: 18px;
+    color: #f2ff00bf;
+    text-decoration: none;
+}
+
+.link:hover {
+        color: #fff200;
+    } 

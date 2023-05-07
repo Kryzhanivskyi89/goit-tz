@@ -1,0 +1,23 @@
+main {
+    background: linear-gradient(#0099ff, #fffb00);
+    min-height: 100vh;
+}
+
+.section {
+    padding: 10px 0;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 380px;
+
+    @media screen and (min-width: 790px) {
+        max-width: 790px;
+    }
+
+    @media screen and (min-width: 1200px) {
+        max-width: 1200px;
+
+    }
+
+}
